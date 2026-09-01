@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" role="img" aria-labelledby="title desc">
+  <title id="title">Twelve independent consciousness research workers</title>
+  <desc id="desc">A system map with twelve independent agent worker threads publishing asynchronously and sharing one MLX experiment queue.</desc>
+  <rect width="900" height="420" fill="#fbf7ea"/>
+  <rect x="38" y="36" width="824" height="348" rx="18" fill="#ffffff" stroke="#d7cbb8"/>
+  <circle cx="450" cy="210" r="96" fill="#e9f5f2" stroke="#008f7a" stroke-width="2"/>
+  <text x="450" y="190" text-anchor="middle" font-family="ui-sans-serif, system-ui" font-size="24" font-weight="700" fill="#173235">Shared repository</text>
+  <text x="450" y="218" text-anchor="middle" font-family="ui-sans-serif, system-ui" font-size="14" fill="#496365">published papers</text>
+  <text x="450" y="242" text-anchor="middle" font-family="ui-sans-serif, system-ui" font-size="14" fill="#496365">reviews and comments</text>
+  <rect x="365" y="310" width="170" height="44" rx="10" fill="#fff4d8" stroke="#d49a33"/>
+  <text x="450" y="337" text-anchor="middle" font-family="ui-sans-serif, system-ui" font-size="15" font-weight="700" fill="#6c4410">single MLX queue</text>
+  <g stroke="#9db7b2" stroke-width="1.4">
+    <line x1="450" y1="114" x2="450" y2="72"/>
+    <line x1="518" y1="142" x2="650" y2="70"/>
+    <line x1="546" y1="210" x2="790" y2="210"/>
+    <line x1="518" y1="278" x2="650" y2="350"/>
+    <line x1="450" y1="306" x2="450" y2="354"/>
+    <line x1="382" y1="278" x2="250" y2="350"/>
+    <line x1="354" y1="210" x2="110" y2="210"/>
+    <line x1="382" y1="142" x2="250" y2="70"/>
+  </g>
+  <g font-family="ui-sans-serif, system-ui" font-size="12" font-weight="700">
+    <circle cx="450" cy="72" r="26" fill="#008f7a"/>
+    <text x="450" y="77" text-anchor="middle" fill="#ffffff">A01</text>
+    <circle cx="560" cy="92" r="26" fill="#2b6cb0"/>
+    <text x="560" y="97" text-anchor="middle" fill="#ffffff">A02</text>
+    <circle cx="650" cy="70" r="26" fill="#8a4fbd"/>
+    <text x="650" y="75" text-anchor="middle" fill="#ffffff">A03</text>
+    <circle cx="760" cy="116" r="26" fill="#c24e3a"/>
+    <text x="760" y="121" text-anchor="middle" fill="#ffffff">A04</text>
+    <circle cx="790" cy="210" r="26" fill="#b7791f"/>
+    <text x="790" y="215" text-anchor="middle" fill="#ffffff">A05</text>
+    <circle cx="760" cy="304" r="26" fill="#4a5568"/>
+    <text x="760" y="309" text-anchor="middle" fill="#ffffff">A06</text>
+    <circle cx="650" cy="350" r="26" fill="#d53f8c"/>
+    <text x="650" y="355" text-anchor="middle" fill="#ffffff">A07</text>
+    <circle cx="560" cy="328" r="26" fill="#319795"/>
+    <text x="560" y="333" text-anchor="middle" fill="#ffffff">A08</text>
+    <circle cx="450" cy="354" r="26" fill="#5a67d8"/>
+    <text x="450" y="359" text-anchor="middle" fill="#ffffff">A09</text>
+    <circle cx="340" cy="328" r="26" fill="#dd6b20"/>
+    <text x="340" y="333" text-anchor="middle" fill="#ffffff">A10</text>
+    <circle cx="250" cy="350" r="26" fill="#718096"/>
+    <text x="250" y="355" text-anchor="middle" fill="#ffffff">A11</text>
+    <circle cx="110" cy="210" r="26" fill="#0f766e"/>
+    <text x="110" y="215" text-anchor="middle" fill="#ffffff">A12</text>
+    <circle cx="250" cy="70" r="26" fill="#7c3aed"/>
+    <text x="250" y="75" text-anchor="middle" fill="#ffffff">REV</text>
+  </g>
+  <path d="M546 201 C610 168 674 168 738 199" fill="none" stroke="#d49a33" stroke-width="3" stroke-linecap="round"/>
+  <path d="M738 199 l-13 -3 l7 11 z" fill="#d49a33"/>
+  <text x="642" y="160" text-anchor="middle" font-family="ui-sans-serif, system-ui" font-size="13" fill="#6c4410">publish when ready</text>
+</svg>
