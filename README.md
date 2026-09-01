@@ -1,6 +1,8 @@
-# Sol xhigh Research Gallery
+# Consciousness Cartography
 
-This repository publishes a static GitHub Pages site for selected AI-generated consciousness-research papers.
+AI-assisted maps of the hypothesis space of mind, created by Ryota Kanai.
+
+Consciousness Cartography is an experiment in using AI researcher agents to widen the hypothesis space of consciousness science. The aim is not to automate truth. It is to expand the space of questions, then preserve the traces that humans can inspect, criticize, test, and carry forward.
 
 The public site intentionally exposes only papers that satisfy all of these checks:
 
