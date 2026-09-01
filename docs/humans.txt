@@ -1,0 +1,5 @@
+Consciousness Cartography
+Creator: Ryota Kanai
+URL: https://kanair-gif.github.io/sol-xhigh-research-gallery/
+Purpose: Consciousness Cartography is an experiment in using AI researcher agents to widen the hypothesis space of consciousness science. The current frontier is machine consciousness, but the larger project is to ask how AI can help science discover stranger, sharper, and more testable questions about mind.
+Machine-readable context: https://kanair-gif.github.io/sol-xhigh-research-gallery/llms.txt and https://kanair-gif.github.io/sol-xhigh-research-gallery/llms-full.txt

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kanair-gif.github.io/sol-xhigh-research-gallery/sitemap.xml
