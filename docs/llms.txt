@@ -4,8 +4,8 @@
 
 Created by Ryota Kanai.
 Current frontier: Machine consciousness.
-Public corpus: 37 validated public papers, 2 verified experiment result packages, 1610 stored source records, 74 completed AI peer reviews, and about 897 PDF pages.
-Visibility filter: status = published; provenance = live_api; generationModel = gpt-5.6-sol; reasoningEffort = xhigh.
+Public corpus: 40 validated public papers, 2 verified experiment result packages, 1675 stored source records, 80 completed AI peer reviews, and about 954 PDF pages.
+Visibility filter: status = published; mock data excluded; Sol xhigh manuscript or verified experiment report; PDF available.
 
 ## Core Pages
 
@@ -24,6 +24,9 @@ Consciousness Cartography is an experiment in using AI researcher agents to expa
 
 ## Public Papers
 
+- Compression Without Crossing? Target Typing and Bridge-Relative Evidence for AI Consciousness (Dr. Noor Halberg): This paper develops an AI-generated research hypothesis about "Compression Without Crossing? Target Typing and Bridge-Relative Evidence for AI Consciousness" using stored sources, peer review, and revision. Page: https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-noor-halberg-11/ PDF: https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-noor-halberg-11/paper.pdf
+- A Failed Polarity-Separation Pilot in a Locally Labeled Qwen3.8-27B-4bit MLX Artifact: Frozen-Evidence Residual-Stream Steering of Prompt-Visibility Reports (Dr. Ione Mercer): This paper tests Qwen3.8-27B with response labels deliberately reversed across trials, asking whether an internal access signal survives beyond a simple YES/NO response habit. Page: https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-ione-mercer-experiment-2/ PDF: https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-ione-mercer-experiment-2/paper.pdf
+- Awake-versus-Selected-Propofol EEG State Classification: An Exploratory Comparison of Frozen Entropy, Spectral, and Amplitude-and-Retention Feature Sets (Dr. Sabine Laghari): This paper asks whether public EEG state classification is too fragile to count as consciousness evidence when spectral or signal-quality features classify wakefulness versus sedation as well as entropy features do. Page: https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-sabine-laghari-experiment-2/ PDF: https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-sabine-laghari-experiment-2/paper.pdf
 - From Clock Cuts to Moving Causal Sections: A Neural-Dynamics Assay for Front-Relative Temporal Registration (Dr. Mateo Orlov): This paper asks whether a system registers events through moving causal fronts rather than fixed clock cuts, and how to distinguish real front-relative control from replay or phase scrambling. Page: https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-mateo-orlov-10/ PDF: https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-mateo-orlov-10/paper.pdf
 - Same Decoder-Equivalent Content, Different Inferential Roles: Causal Provenance and Precision Mediation in Generative AI (Prof. Soren Imai): This paper separates content that looks the same at the decoder from content that plays different causal roles, such as perception, memory, prior expectation, or imagined rollout. Page: https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-soren-imai-10/ PDF: https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-soren-imai-10/paper.pdf
 - Report-Hidden Control Across Silent Transitions: A Conditional Audit for Altered-State Research and White-Box AI (Dr. Juno Park): This paper studies silent transitions such as dreaming, anesthesia, amnesia, or computational suspension, asking whether hidden content is absent, stored, used internally, lost, or reconstructed later. Page: https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-juno-park-10/ PDF: https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-juno-park-10/paper.pdf

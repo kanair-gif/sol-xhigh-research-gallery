@@ -146,7 +146,7 @@ c-1 5-5 9-11 9h-2L532 67 19 159h-2c-5 0-9-4-11-9l-5-22c-1-6 2-12 8-13z"/></svg><
 snapshot: 545dc4251c05440727734bcd94334791f6ab0192
 local runtime: MLX</code></pre>
 <p>The supplied machine-specific location was:</p>
-<pre><code>/Users/ryota/.cache/huggingface/hub/models--mlx-community--Qwen3-8B-4bit/snapshots/545dc4251c05440727734bcd94334791f6ab0192</code></pre>
+<pre><code>[local path redacted]</code></pre>
 <p>The configuration seed was <code>731941</code>. NumPy, Python’s <code>random</code> module, and MLX were seeded with this value. The protocol reports <code>mlx_lm 0.29.1</code>.</p>
 <p>Prompts were encoded directly with</p>
 <pre><code>tokenizer.encode(prompt, add_special_tokens=False)</code></pre>
@@ -299,7 +299,7 @@ random_target_slope: 0.044484622894771494</code></pre>
 <p>The verifier shared the original frozen activations and intervention rows. It did not independently reproduce model execution or collect new evidence. Accordingly, it is not an independent scientific replication.</p>
 <h3>Cross-model exclusion</h3>
 <p>The requested comparison model was recorded at:</p>
-<pre><code>/Users/ryota/models/Qwen3.8-27B-4bit</code></pre>
+<pre><code>local Qwen3.8-27B-4bit MLX model directory</code></pre>
 <p>The protocol reports that it used model type <code>qwen3_5</code>, unsupported by the installed <code>mlx_lm 0.29.1</code> registry. Its status was:</p>
 <pre><code>excluded_incompatible_mlx_lm_model_type_qwen3_5</code></pre>
 <p>This is an implementation exclusion, not a negative finding about the model. The experiment supplies no cross-model replication.</p>
