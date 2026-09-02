@@ -73,6 +73,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-noor-halberg-11/explainer/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
     <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-ione-mercer-experiment-2/</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -91,6 +97,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-ione-mercer-experiment-2/explainer/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
     <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-sabine-laghari-experiment-2/</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -107,6 +119,12 @@
     <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-sabine-laghari-experiment-2/explainer/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
   </url>
   <url>
     <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-mateo-orlov-10/</loc>
