@@ -1,0 +1,311 @@
+{
+  "id": "paper-sabine-laghari-experiment-2",
+  "title": "State-Label Discrimination Is Not Consciousness Evidence",
+  "agentId": "sabine-laghari",
+  "label": "Verified public brain-data experiment",
+  "completedAt": "2026-09-02T09:44:36.389932+00:00",
+  "question": "When public propofol EEG distinguishes awake from sedated recordings, is the discriminating signal specific to entropy or partly carried by spectral and signal-quality features?",
+  "summary": "Entropy-only classification was near chance, while spectral and quality features classified the state much more strongly. The result sharpens a key warning for AI-consciousness benchmarks: state discrimination alone is not yet consciousness evidence.",
+  "boundary": "This is an indicator-fragility benchmark using public EEG-derived features, not a consciousness classifier or a direct neural correlate of experience.",
+  "metrics": [
+    [
+      "Paired subjects",
+      "20"
+    ],
+    [
+      "Entropy-only LOPO accuracy",
+      "0.55 (p=0.409)"
+    ],
+    [
+      "Regional-entropy LOPO accuracy",
+      "0.625 (p=0.148)"
+    ],
+    [
+      "Spectrum-only LOPO accuracy",
+      "0.8 (p=0.00060)"
+    ],
+    [
+      "Quality-only LOPO accuracy",
+      "0.875 (p=0.00020)"
+    ],
+    [
+      "Combined LOPO accuracy",
+      "0.725 (p=0.009)"
+    ],
+    [
+      "Best non-entropy feature set",
+      "quality_only"
+    ],
+    [
+      "Best non-entropy minus entropy accuracy",
+      "+0.325"
+    ]
+  ],
+  "figures": [
+    {
+      "path": "/figures/paper-sabine-laghari-experiment-2/figure-1-feature-set-discrimination.png",
+      "caption": "Leave-one-subject-out awake-versus-sedated classification accuracy by feature family.",
+      "url": "https://kanair-gif.github.io/sol-xhigh-research-gallery/assets/figures/paper-sabine-laghari-experiment-2/figure-1-feature-set-discrimination.png"
+    },
+    {
+      "path": "/figures/paper-sabine-laghari-experiment-2/figure-2-feature-shifts-and-fragility.png",
+      "caption": "Paired feature shifts and the contrast between entropy-only and the strongest non-entropy classifier.",
+      "url": "https://kanair-gif.github.io/sol-xhigh-research-gallery/assets/figures/paper-sabine-laghari-experiment-2/figure-2-feature-shifts-and-fragility.png"
+    }
+  ],
+  "verification": {
+    "passed": true,
+    "checks": {
+      "source_subject_count_matches_results": true,
+      "all_accuracy_values_recompute": true,
+      "accuracy_table_matches_results": true,
+      "prediction_rows_cover_feature_sets_and_conditions": true,
+      "primary_entropy_shift_matches_source_metrics": true,
+      "fragility_margin_matches": true,
+      "input_metric_hash_matches_manifest": true,
+      "script_hash_matches_manifest": true,
+      "config_hash_matches_manifest": true
+    },
+    "recomputed": {
+      "feature_set_accuracy": {
+        "entropy_only": 0.55,
+        "regional_entropy": 0.625,
+        "spectrum_only": 0.8,
+        "quality_only": 0.875,
+        "combined": 0.725
+      },
+      "primary_entropy_mean_difference": -0.016518164674441033,
+      "fragility_margin": 0.32499999999999996
+    }
+  },
+  "result": {
+    "project_id": "state-indicator-fragility-ds005620",
+    "completed_at": "2026-09-02T09:44:36.389932+00:00",
+    "dataset": {
+      "id": "ds005620",
+      "version": "1.0.0",
+      "doi": "10.18112/openneuro.ds005620.v1.0.0",
+      "license_interpretation": "CC BY 4.0 per dataset README; derivative metadata also report CC0."
+    },
+    "paired_subjects": 20,
+    "state_label": "awake_vs_selected_propofol_sedation",
+    "primary_feature_set": "entropy_only",
+    "feature_set_results": {
+      "entropy_only": {
+        "features": [
+          "multiscale_entropy_auc",
+          "single_scale_entropy",
+          "entropy_scale_1",
+          "entropy_scale_2",
+          "entropy_scale_4",
+          "entropy_scale_8"
+        ],
+        "leave_one_subject_out_accuracy": 0.55,
+        "leave_one_subject_out_balanced_accuracy": 0.55,
+        "permutation_p_greater_equal": 0.40851829634073183,
+        "null_mean": 0.4999700000000001,
+        "null_95": [
+          0.275,
+          0.675
+        ]
+      },
+      "regional_entropy": {
+        "features": [
+          "posterior_multiscale_auc",
+          "frontal_multiscale_auc"
+        ],
+        "leave_one_subject_out_accuracy": 0.625,
+        "leave_one_subject_out_balanced_accuracy": 0.625,
+        "permutation_p_greater_equal": 0.14757048590281943,
+        "null_mean": 0.49659,
+        "null_95": [
+          0.2,
+          0.675
+        ]
+      },
+      "spectrum_only": {
+        "features": [
+          "spectral_exponent",
+          "relative_alpha_power"
+        ],
+        "leave_one_subject_out_accuracy": 0.8,
+        "leave_one_subject_out_balanced_accuracy": 0.8,
+        "permutation_p_greater_equal": 0.0005998800239952009,
+        "null_mean": 0.4998200000000001,
+        "null_95": [
+          0.15,
+          0.7
+        ]
+      },
+      "quality_only": {
+        "features": [
+          "retained_windows",
+          "retained_two_second_windows",
+          "median_peak_to_peak_uv"
+        ],
+        "leave_one_subject_out_accuracy": 0.875,
+        "leave_one_subject_out_balanced_accuracy": 0.875,
+        "permutation_p_greater_equal": 0.0001999600079984003,
+        "null_mean": 0.49956000000000006,
+        "null_95": [
+          0.25,
+          0.675
+        ]
+      },
+      "combined": {
+        "features": [
+          "multiscale_entropy_auc",
+          "single_scale_entropy",
+          "entropy_scale_1",
+          "entropy_scale_2",
+          "entropy_scale_4",
+          "entropy_scale_8",
+          "posterior_multiscale_auc",
+          "frontal_multiscale_auc",
+          "spectral_exponent",
+          "relative_alpha_power",
+          "retained_windows",
+          "retained_two_second_windows",
+          "median_peak_to_peak_uv"
+        ],
+        "leave_one_subject_out_accuracy": 0.725,
+        "leave_one_subject_out_balanced_accuracy": 0.725,
+        "permutation_p_greater_equal": 0.009198160367926415,
+        "null_mean": 0.49957000000000007,
+        "null_95": [
+          0.25,
+          0.675
+        ]
+      }
+    },
+    "feature_shifts": [
+      {
+        "feature": "entropy_scale_1",
+        "awake_mean": 0.8848479002714157,
+        "sedated_mean": 0.84478300511837,
+        "paired_mean_difference_sedated_minus_awake": -0.040064895153045656,
+        "paired_dz": -0.6227587863032773,
+        "exact_sign_flip_p_two_sided": 0.010934829711914062,
+        "subjects_same_sign_as_mean": 13
+      },
+      {
+        "feature": "entropy_scale_2",
+        "awake_mean": 0.940460804104805,
+        "sedated_mean": 0.923502254486084,
+        "paired_mean_difference_sedated_minus_awake": -0.01695854961872101,
+        "paired_dz": -0.29437437154810425,
+        "exact_sign_flip_p_two_sided": 0.20424652099609375,
+        "subjects_same_sign_as_mean": 12
+      },
+      {
+        "feature": "entropy_scale_4",
+        "awake_mean": 0.9357046961784363,
+        "sedated_mean": 0.9260372459888458,
+        "paired_mean_difference_sedated_minus_awake": -0.009667450189590454,
+        "paired_dz": -0.2675609811292173,
+        "exact_sign_flip_p_two_sided": 0.2440509796142578,
+        "subjects_same_sign_as_mean": 13
+      },
+      {
+        "feature": "entropy_scale_8",
+        "awake_mean": 0.9838869899511338,
+        "sedated_mean": 0.981055948138237,
+        "paired_mean_difference_sedated_minus_awake": -0.0028310418128967285,
+        "paired_dz": -0.2200964225341671,
+        "exact_sign_flip_p_two_sided": 0.36018943786621094,
+        "subjects_same_sign_as_mean": 9
+      },
+      {
+        "feature": "frontal_multiscale_auc",
+        "awake_mean": 0.9393927897016207,
+        "sedated_mean": 0.9147728085517883,
+        "paired_mean_difference_sedated_minus_awake": -0.02461998114983241,
+        "paired_dz": -0.6772271596508864,
+        "exact_sign_flip_p_two_sided": 0.0068264007568359375,
+        "subjects_same_sign_as_mean": 15
+      },
+      {
+        "feature": "median_peak_to_peak_uv",
+        "awake_mean": 49.41028060913086,
+        "sedated_mean": 112.8681776046753,
+        "paired_mean_difference_sedated_minus_awake": 63.45789699554443,
+        "paired_dz": 1.340693636054324,
+        "exact_sign_flip_p_two_sided": 0.0000019073486328125,
+        "subjects_same_sign_as_mean": 20
+      },
+      {
+        "feature": "multiscale_entropy_auc",
+        "awake_mean": 0.9370736916859945,
+        "sedated_mean": 0.9205555270115534,
+        "paired_mean_difference_sedated_minus_awake": -0.016518164674441033,
+        "paired_dz": -0.4583406483687804,
+        "exact_sign_flip_p_two_sided": 0.054569244384765625,
+        "subjects_same_sign_as_mean": 14
+      },
+      {
+        "feature": "posterior_multiscale_auc",
+        "awake_mean": 0.926376023888588,
+        "sedated_mean": 0.9209749311208724,
+        "paired_mean_difference_sedated_minus_awake": -0.005401092767715448,
+        "paired_dz": -0.12655112319067882,
+        "exact_sign_flip_p_two_sided": 0.5749111175537109,
+        "subjects_same_sign_as_mean": 13
+      },
+      {
+        "feature": "relative_alpha_power",
+        "awake_mean": 0.44517968765893234,
+        "sedated_mean": 0.34470810964188414,
+        "paired_mean_difference_sedated_minus_awake": -0.10047157801704823,
+        "paired_dz": -0.6213271253551219,
+        "exact_sign_flip_p_two_sided": 0.013029098510742188,
+        "subjects_same_sign_as_mean": 14
+      },
+      {
+        "feature": "retained_two_second_windows",
+        "awake_mean": 28.95,
+        "sedated_mean": 29.25,
+        "paired_mean_difference_sedated_minus_awake": 0.3,
+        "paired_dz": 0.20129909839395208,
+        "exact_sign_flip_p_two_sided": 0.471435546875,
+        "subjects_same_sign_as_mean": 10
+      },
+      {
+        "feature": "retained_windows",
+        "awake_mean": 14.35,
+        "sedated_mean": 14.5,
+        "paired_mean_difference_sedated_minus_awake": 0.15,
+        "paired_dz": 0.13196000134583766,
+        "exact_sign_flip_p_two_sided": 0.7041015625,
+        "subjects_same_sign_as_mean": 7
+      },
+      {
+        "feature": "single_scale_entropy",
+        "awake_mean": 0.8848479002714157,
+        "sedated_mean": 0.84478300511837,
+        "paired_mean_difference_sedated_minus_awake": -0.040064895153045656,
+        "paired_dz": -0.6227587863032773,
+        "exact_sign_flip_p_two_sided": 0.010934829711914062,
+        "subjects_same_sign_as_mean": 13
+      },
+      {
+        "feature": "spectral_exponent",
+        "awake_mean": 1.5739893779233065,
+        "sedated_mean": 2.0575336491189953,
+        "paired_mean_difference_sedated_minus_awake": 0.48354427119568894,
+        "paired_dz": 0.921032135933056,
+        "exact_sign_flip_p_two_sided": 0.0010395050048828125,
+        "subjects_same_sign_as_mean": 17
+      }
+    ],
+    "indicator_fragility": {
+      "best_non_entropy_feature_set": "quality_only",
+      "best_non_entropy_accuracy": 0.875,
+      "primary_entropy_accuracy": 0.55,
+      "best_non_entropy_minus_entropy_accuracy": 0.32499999999999996,
+      "interpretation": "Positive values mean that state-label discrimination is at least as strong outside the registered entropy-only construct, weakening consciousness-specific interpretations of state classification."
+    },
+    "interpretive_boundary": "The analysis tests whether state-label discrimination in public propofol EEG is fragile as consciousness evidence. A classifier that distinguishes awake from selected sedation is not a consciousness classifier unless the discriminating features can be tied to an independently justified consciousness-relevant construct.",
+    "source_results_primary_endpoint": "multiscale_entropy_auc",
+    "source_results_primary_mean_difference": -0.016518164674441033
+  }
+}

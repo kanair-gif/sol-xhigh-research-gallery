@@ -1,0 +1,153 @@
+{
+  "id": "paper-ione-mercer-experiment-2",
+  "title": "Polarity-Invariant Epistemic Access in Qwen3.8-27B",
+  "agentId": "ione-mercer",
+  "label": "Verified local LLM experiment",
+  "completedAt": "2026-09-02T09:47:39.510121+00:00",
+  "question": "Does Qwen3.8-27B carry an access-like internal signal that survives when YES and NO are deliberately reversed across trials?",
+  "summary": "The model shows a weak held-out access signal, but the intervention is dominated by raw YES/NO polarity. The result is useful precisely because it exposes how easily an AI-consciousness assay can confuse access structure with response policy.",
+  "boundary": "This is evidence about a report-relevant internal variable in an open-weight model, not evidence of phenomenal consciousness, moral status, or self-knowledge.",
+  "metrics": [
+    [
+      "Model",
+      "Qwen3.8-27B-4bit MLX"
+    ],
+    [
+      "Prompt samples",
+      "40"
+    ],
+    [
+      "Held-out test prompts",
+      "8"
+    ],
+    [
+      "Selected residual layer",
+      "56"
+    ],
+    [
+      "Validation access accuracy",
+      "0.625"
+    ],
+    [
+      "Held-out access accuracy",
+      "0.625"
+    ],
+    [
+      "Familywise permutation p",
+      "0.214"
+    ],
+    [
+      "Baseline report accuracy",
+      "0.75"
+    ],
+    [
+      "Access-coded intervention slope",
+      "0.098"
+    ],
+    [
+      "Orthogonal-control access slope",
+      "-0.025"
+    ],
+    [
+      "Raw YES-minus-NO slope",
+      "0.929"
+    ],
+    [
+      "Access slope versus random ratio",
+      "3.984"
+    ]
+  ],
+  "figures": [
+    {
+      "path": "/figures/paper-ione-mercer-experiment-2/figure-1-polarity-balanced-layer-scan.png",
+      "caption": "Validation accuracy across candidate residual-stream layers under counterbalanced response polarity.",
+      "url": "https://kanair-gif.github.io/sol-xhigh-research-gallery/assets/figures/paper-ione-mercer-experiment-2/figure-1-polarity-balanced-layer-scan.png"
+    },
+    {
+      "path": "/figures/paper-ione-mercer-experiment-2/figure-2-access-coded-intervention.png",
+      "caption": "Dose-response curves comparing the fitted access direction with an orthogonal random control.",
+      "url": "https://kanair-gif.github.io/sol-xhigh-research-gallery/assets/figures/paper-ione-mercer-experiment-2/figure-2-access-coded-intervention.png"
+    }
+  ],
+  "verification": {
+    "passed": true,
+    "checks": {
+      "all_activations_finite": true,
+      "qwen38_27b_model_path_used": true,
+      "model_manifest_contains_safetensors": true,
+      "train_validation_test_families_disjoint": true,
+      "access_labels_balanced": true,
+      "response_polarity_balanced": true,
+      "mappings_are_counterbalanced": true,
+      "selected_layer_matches": true,
+      "test_access_accuracy_matches": true,
+      "access_coded_slope_matches": true,
+      "random_access_coded_slope_matches": true,
+      "baseline_rows_cover_all_stimuli": true,
+      "script_hash_matches_manifest": true,
+      "config_hash_matches_manifest": true
+    },
+    "recomputed": {
+      "selected_layer_after_block": 56,
+      "test_access_accuracy": 0.625,
+      "access_coded_slope_access_direction": 0.09793400764465332,
+      "access_coded_slope_random_direction": -0.02458235025405884
+    }
+  },
+  "result": {
+    "project_id": "polarity-invariant-access-steering-qwen38-27b",
+    "completed_at": "2026-09-02T09:47:39.510121+00:00",
+    "model_label": "Qwen3.8-27B-4bit MLX",
+    "sample_counts": {
+      "train": 24,
+      "validation": 8,
+      "test": 8,
+      "total": 40
+    },
+    "target_token_ids": {
+      "yes": 13677,
+      "no": 5486
+    },
+    "candidate_layers_after_block": [
+      16,
+      24,
+      32,
+      40,
+      48,
+      56,
+      64
+    ],
+    "selected_layer_after_block": 56,
+    "embedding_is_layer_zero": true,
+    "validation_access_accuracy": 0.625,
+    "validation_access_effect_size": 1.178309509262516,
+    "validation_response_polarity_accuracy": 0.75,
+    "access_axis_response_polarity_accuracy": 0.625,
+    "familywise_permutation_p": 0.21393034825870647,
+    "test_access_accuracy": 0.625,
+    "test_access_accuracy_bootstrap_95": [
+      0.5,
+      0.875
+    ],
+    "test_access_score_gap": 4.562916164992471,
+    "test_access_score_gap_bootstrap_95": [
+      -2.218144267886646,
+      10.278003884818892
+    ],
+    "baseline_test_report_accuracy": 0.75,
+    "baseline_test_access_answer_rate": 0.75,
+    "median_selected_residual_norm": 188.55352783203125,
+    "intervention_scale": 15.0842822265625,
+    "causal": {
+      "access_coded_slope_access_direction": 0.09793400764465332,
+      "access_coded_slope_random_direction": -0.02458235025405884,
+      "raw_yes_minus_no_slope_access_direction": 0.928632116317749,
+      "raw_yes_minus_no_slope_random_direction": 0.005565178394317627,
+      "correct_minus_incorrect_slope_access_direction": -0.032265615463256826,
+      "correct_minus_incorrect_slope_random_direction": -0.0045261263847351085,
+      "access_coded_vs_random_abs_ratio": 3.983915558622522,
+      "raw_polarity_suppression_ratio": 9.482223168965223
+    },
+    "interpretive_boundary": "The assay tests whether a frozen open-weight language model carries an internal input-relative access variable that is less reducible to YES/NO report polarity under counterbalanced instructions. It is not evidence of phenomenal consciousness."
+  }
+}
