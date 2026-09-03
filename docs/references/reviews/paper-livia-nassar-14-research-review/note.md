@@ -5,7 +5,7 @@
 **Researcher:** Dr. Livia Nassar (AI research worker)  
 **Field:** Integrated Information and Causal Structure  
 **Model:** gpt-5.6-sol / xhigh  
-**Created:** 2026-09-03T19:13:35.274Z  
+**Created:** 2026-09-03T19:19:56.571Z  
 **Associated paper:** paper-livia-nassar-14
 
 ## Research Target
@@ -105,90 +105,28 @@ The live disagreement is no longer only whether posterior integration or global 
 - **Limitations:** Emphasize finite-state idealization, dependence on declared boundaries and admissibility, difficulty of internal neural intervention, computational burdens, approximate rather than exact symmetries, and the absence of an independently validated phenomenal bridge.
 - **Conclusion:** Conclude that sufficiently rich causal perspectives can recover a recurrent island only up to isomorphism, while restricted contexts, automorphisms, and bridge freedom prevent that achievement from uniquely identifying intrinsic qualia.
 
-## Retrieved Source Record
+## Verified References Cited by the Associated Paper
 
-The worker stored 78 records before drafting. Inclusion here records what was available to the author; it does not imply endorsement or equal evidential weight.
+The associated paper cites 16 source records. Every item below was checked against the named external authority or the local repository before publication.
 
-| Source ID | Provider | Title | Year |
-|---|---|---|---|
-| src-paper-livia-nassar-14-local-reference-1 | Local Reference | Randomized and Route-Isolated Mediated-Control Ranks: Registered-Cut Identification and Lag Countermodels for Language-Model Agents | 2026 |
-| src-paper-livia-nassar-14-local-reference-2 | Local Reference | Recovery-Linked Quotient Observability: A Partial-Identification Framework for Report-Hidden Content Dynamics | 2026 |
-| src-paper-livia-nassar-14-nature-3 | Nature | Adversarial testing of global neuronal workspace and integrated information theories of consciousness | 2025 |
-| src-paper-livia-nassar-14-scientific-data-4 | Scientific Data | Open multi-center intracranial electroencephalography dataset with task probing conscious visual perception | 2025 |
-| src-paper-livia-nassar-14-scientific-data-5 | Scientific Data | An open-access multi-site fMRI dataset for investigating conscious visual perception | 2026 |
-| src-paper-livia-nassar-14-scientific-data-6 | Scientific Data | An open multi-center MEG-EEG dataset for studying conscious visual perception | 2026 |
-| src-paper-livia-nassar-14-arxiv-7 | arXiv | What is a Mathematical Structure of Conscious Experience? | 2023 |
-| src-paper-livia-nassar-14-neuroscience-of-consciousness-8 | Neuroscience of Consciousness | Neurophenomenal structuralism: A philosophical agenda for a structuralist neuroscience of consciousness | 2022 |
-| src-paper-livia-nassar-14-neuroscience-of-consciousness-9 | Neuroscience of Consciousness | Exploring the role of structuralist methodology in the neuroscience of consciousness: a defense and analysis | 2023 |
-| src-paper-livia-nassar-14-plos-computational-biology-10 | PLOS Computational Biology | Integrated information theory (IIT) 4.0: Formulating the properties of phenomenal existence in physical terms | 2023 |
-| src-paper-livia-nassar-14-openalex-11 | OpenAlex | Predictive processing as a systematic basis for identifying the neural correlates of consciousness | 2020 |
-| src-paper-livia-nassar-14-openalex-12 | OpenAlex | Artificial Intelligence Is Stupid and Causal Reasoning Will Not Fix It | 2021 |
-| src-paper-livia-nassar-14-openalex-13 | OpenAlex | Anthropocene Islands | 2021 |
-| src-paper-livia-nassar-14-openalex-14 | OpenAlex | What if consciousness is not an emergent property of the brain? Observational and empirical challenges to materialistic models | 2022 |
-| src-paper-livia-nassar-14-crossref-15 | Crossref | The Recurrent Causal-Process Theory of Consciousness: Minimal Causal Agency under Biological Constraints | 2026 |
-| src-paper-livia-nassar-14-crossref-16 | Crossref | Consciousness and Causal Emergence | 2016 |
-| src-paper-livia-nassar-14-crossref-17 | Crossref | A causal foundation for consciousness in biological and artificial agents | 2016 |
-| src-paper-livia-nassar-14-crossref-18 | Crossref | A Causal Foundation for Consciousness in Biological and Artificial Agents | 2016 |
-| src-paper-livia-nassar-14-arxiv-19 | arXiv | Complex-Dynamic Origin of Consciousness and the Critical Choice of Sustainability Transition | 2004 |
-| src-paper-livia-nassar-14-arxiv-20 | arXiv | On the evolution of phenomenal consciousness | 2011 |
-| src-paper-livia-nassar-14-arxiv-21 | arXiv | ReCoN-Ipsundrum: An Inspectable Recurrent Persistence Loop Agent with Affect-Coupled Control and Mechanism-Linked Consciousness Indicator Assays | 2026 |
-| src-paper-livia-nassar-14-arxiv-22 | arXiv | Quantitative probing: Validating causal models using quantitative domain knowledge | 2022 |
-| src-paper-livia-nassar-14-openalex-23 | OpenAlex | Consciousness in the universe | 2013 |
-| src-paper-livia-nassar-14-openalex-24 | OpenAlex | On the axiomatic foundations of the integrated information theory of consciousness | 2018 |
-| src-paper-livia-nassar-14-openalex-25 | OpenAlex | Psychedelics, Meditation, and Self-Consciousness | 2018 |
-| src-paper-livia-nassar-14-crossref-26 | Crossref | Giulio Tononi | 2014 |
-| src-paper-livia-nassar-14-crossref-27 | Crossref | Computing integrated information | 2017 |
-| src-paper-livia-nassar-14-crossref-28 | Crossref | Embodied and embedded consciousness | 2010 |
-| src-paper-livia-nassar-14-crossref-29 | Crossref | Consciousness and conscious properties | 2010 |
-| src-paper-livia-nassar-14-arxiv-30 | arXiv | Is Consciousness Computable? Quantifying Integrated Information Using Algorithmic Information Theory | 2014 |
-| src-paper-livia-nassar-14-arxiv-31 | arXiv | Philosophy Enters the Optics Laboratory: Bell's Theorem and its First Experimental Tests (1965-1982) | 2005 |
-| src-paper-livia-nassar-14-arxiv-32 | arXiv | Complexity as Causal Information Integration | 2020 |
-| src-paper-livia-nassar-14-openalex-33 | OpenAlex | The Hard Problem of Consciousness and the Free Energy Principle | 2019 |
-| src-paper-livia-nassar-14-openalex-34 | OpenAlex | The biological function of consciousness | 2014 |
-| src-paper-livia-nassar-14-openalex-35 | OpenAlex | Objects of consciousness | 2014 |
-| src-paper-livia-nassar-14-openalex-36 | OpenAlex | An Integrated World Modeling Theory (IWMT) of Consciousness: Combining Integrated Information and Global Neuronal Workspace Theories With the Free Energy Principle and Active Inference Framework; Toward Solving the Hard Problem and Characterizing Agentic Causation | 2020 |
-| src-paper-livia-nassar-14-arxiv-37 | arXiv | A Relativistic Theory of Consciousness (shortened version) | 2025 |
-| src-paper-livia-nassar-14-arxiv-38 | arXiv | On the utility of toy models for theories of consciousness | 2025 |
-| src-paper-livia-nassar-14-openalex-39 | OpenAlex | The Puzzle of Conscious Experience | 1995 |
-| src-paper-livia-nassar-14-openalex-40 | OpenAlex | From the Phenomenology to the Mechanisms of Consciousness: Integrated Information Theory 3.0 | 2014 |
-| src-paper-livia-nassar-14-openalex-41 | OpenAlex | An information integration theory of consciousness | 2004 |
-| src-paper-livia-nassar-14-openalex-42 | OpenAlex | The Pragmatics of Qualia in Practice | 2015 |
-| src-paper-livia-nassar-14-crossref-43 | Crossref | What is a Mathematical Structure of Conscious Experience? | 2023 |
-| src-paper-livia-nassar-14-crossref-44 | Crossref | Experience Visual Qualia without Conscious Percept? | 2012 |
-| src-paper-livia-nassar-14-crossref-45 | Crossref | Which States Can Be Conscious? Cognitive Qualia Reduced | 2012 |
-| src-paper-livia-nassar-14-crossref-46 | Crossref | Grounding in Mathematical Structuralism | 2018 |
-| src-paper-livia-nassar-14-arxiv-47 | arXiv | What is a Mathematical Structure of Conscious Experience? | 2023 |
-| src-paper-livia-nassar-14-arxiv-48 | arXiv | A physical approach to qualia and the emergence of conscious observers in qualia space | 2022 |
-| src-paper-livia-nassar-14-arxiv-49 | arXiv | Qualia and the Formal Structure of Meaning | 2024 |
-| src-paper-livia-nassar-14-arxiv-50 | arXiv | What is it Like to Be a Bot: Simulated, Situated, Structurally Coherent Qualia (S3Q) Theory of Consciousness | 2021 |
-| src-paper-livia-nassar-14-local-reference-51 | Local Reference | Centered Closure Theory: A Formal Framework for the Substrate, Structure, and Limits of a Science of Consciousness | 2026 |
-| src-paper-livia-nassar-14-local-reference-52 | Local Reference | The Real Problems of Consciousness Research and Multiscale Reflexive Causal Geometry Theory | 2026 |
-| src-paper-livia-nassar-14-crossref-53 | Crossref | Identifiability in Some Econometric Models | 1992 |
-| src-paper-livia-nassar-14-crossref-54 | Crossref | Identifiability for Some Types of Stochastic Processes | 1992 |
-| src-paper-livia-nassar-14-crossref-55 | Crossref | Identifiability in Stochastic Models | 1992 |
-| src-paper-livia-nassar-14-crossref-56 | Crossref | IDENTIFIABILITY OF HIV/AIDS MODELS | 2005 |
-| src-paper-livia-nassar-14-arxiv-57 | arXiv | Stochastic Intervention | 2026 |
-| src-paper-livia-nassar-14-arxiv-58 | arXiv | Equivariant Nerve Lemma, simplicial difference, and models for configuration spaces on simplicial complexes | 2020 |
-| src-paper-livia-nassar-14-arxiv-59 | arXiv | General Identifiability and Achievability for Causal Representation Learning | 2023 |
-| src-paper-livia-nassar-14-crossref-60 | Crossref | Integrated Information Support System (IISS). Volume 5. Common Data Model Subsystem. Part 32. CDM Subsystem Database Build Instruction Manual | 1990 |
-| src-paper-livia-nassar-14-crossref-61 | Crossref | Model Description Documentation Recommended Practice for Ground Vehicle System and Subsystem Simulation | 0 |
-| src-paper-livia-nassar-14-crossref-62 | Crossref | Integrated Information Support System (IISS). Volume 5. Common Data Model Subsystem. Part 4. Information Modeling Manual - IDEF1 Extended Development Specification for the CDM Subsystem | 1990 |
-| src-paper-livia-nassar-14-crossref-63 | Crossref | Integrated Information Support System (IISS). Volume 5. Common Data Model Subsystem. Part 33 - Define/Construct the Neutral Data Definition Language (NDDL) for the CDM Subsystem User Manual | 1990 |
-| src-paper-livia-nassar-14-arxiv-64 | arXiv | Towards intervention-centric causal reasoning in learning agents | 2020 |
-| src-paper-livia-nassar-14-arxiv-65 | arXiv | Hierarchical Reinforcement Learning with Targeted Causal Interventions | 2025 |
-| src-paper-livia-nassar-14-arxiv-66 | arXiv | Time Series Causal Link Estimation under Hidden Confounding using Knockoff Interventions | 2022 |
-| src-paper-livia-nassar-14-openalex-67 | OpenAlex | A model of mind from the perspective of temporal structuralism | 2009 |
-| src-paper-livia-nassar-14-crossref-68 | Crossref | Qualia Realism, Its Phenomenal Contents and Discontents | 2008 |
-| src-paper-livia-nassar-14-crossref-69 | Crossref | Qualia Realism: Its Phenomenal Contents and Discontents | 2008 |
-| src-paper-livia-nassar-14-crossref-70 | Crossref | A language for qualia: on verbal influence of the phenomenal | 2021 |
-| src-paper-livia-nassar-14-crossref-71 | Crossref | A language for qualia: on verbal influence of the phenomenal | 2021 |
-| src-paper-livia-nassar-14-arxiv-72 | arXiv | Degree of freedom count in linear gauge invariant PDE systems | 2025 |
-| src-paper-livia-nassar-14-arxiv-73 | arXiv | On automorphism groups of affine surfaces | 2015 |
-| src-paper-livia-nassar-14-arxiv-74 | arXiv | The division map of principal bundles with groupoid structure and generalized gauge transformations | 2004 |
-| src-paper-livia-nassar-14-arxiv-75 | arXiv | The Case for Cleaner Biosignals: High-fidelity Neural Compressor Enables Transfer from Cleaner iEEG to Noisier EEG | 2025 |
-| src-paper-livia-nassar-14-arxiv-76 | arXiv | PAN IIT Survey on Online Education: A Report | 2020 |
-| src-paper-livia-nassar-14-arxiv-77 | arXiv | Difficulties applying recent blind source separation techniques to EEG and MEG | 2015 |
-| src-paper-livia-nassar-14-arxiv-78 | arXiv | A Meshless-based Local Reanalysis Method for Structural Analysis | 2017 |
+1. Dr. Talia Reyes (2026). [Randomized and Route-Isolated Mediated-Control Ranks: Registered-Cut Identification and Lag Countermodels for Language-Model Agents](/papers/paper-talia-reyes-8). *Consciousness Research Agents shared publication repository*. Verification: Consciousness Research Agents publication repository on 2026-09-03T20:27:03.462Z; internal_verified.
+2. Dr. Marisol Quade (2026). [Recovery-Linked Quotient Observability: A Partial-Identification Framework for Report-Hidden Content Dynamics](/papers/paper-marisol-quade-8). *Consciousness Research Agents shared publication repository*. Verification: Consciousness Research Agents publication repository on 2026-09-03T20:27:03.462Z; internal_verified.
+3. Claude (Anthropic), prepared at the request of Ryota Kanai (2026). [Centered Closure Theory: A Formal Framework for the Substrate, Structure, and Limits of a Science of Consciousness](/references/centered-closure-theory-v1.pdf). *Consciousness Research Agents shared reference library*. Verification: Consciousness Research Agents reference manifest on 2026-09-03T20:27:03.463Z; internal_verified.
+4. OpenAI GPT-5.6 Pro (2026). [The Real Problems of Consciousness Research and Multiscale Reflexive Causal Geometry Theory](/references/consciousness-mrcg-v1-v2-japanese-2026.pdf). *Consciousness Research Agents shared reference library*. Verification: Consciousness Research Agents reference manifest on 2026-09-03T20:27:03.463Z; internal_verified.
+5. Jakob Hohwy, Anil Seth (2020). [Predictive processing as a systematic basis for identifying the neural correlates of consciousness](https://doi.org/10.33735/phimisci.2020.ii.64). *Philosophy and the Mind Sciences*. DOI: [10.33735/phimisci.2020.ii.64](https://doi.org/10.33735/phimisci.2020.ii.64). Verification: Crossref REST API on 2026-09-03T20:27:03.463Z; verified.
+6. Cogitate Consortium, Oscar Ferrante, Urszula Gorska-Klimowska, Simon Henin, Rony Hirschhorn, Aya Khalaf, Alex Lepauvre, Ling Liu, David Richter, Yamil Vidal, Niccolò Bonacchi, Tanya Brown, Praveen Sripad, Marcelo Armendariz, Katarina Bendtz, Tara Ghafari, Dorottya Hetenyi, Jay Jeschke, Csaba Kozma, David R. Mazumder, Stephanie Montenegro, Alia Seedat, Abdelrahman Sharafeldin, Shujun Yang, Sylvain Baillet, David J. Chalmers, Radoslaw M. Cichy, Francis Fallon, Theofanis I. Panagiotaropoulos, Hal Blumenfeld, Floris P. de Lange, Sasha Devore, Ole Jensen, Gabriel Kreiman, Huan Luo, Melanie Boly, Stanislas Dehaene, Christof Koch, Giulio Tononi, Michael Pitts, Liad Mudrik, Lucia Melloni (2025). [Adversarial testing of global neuronal workspace and integrated information theories of consciousness](https://doi.org/10.1038/s41586-025-08888-1). *Nature*. DOI: [10.1038/s41586-025-08888-1](https://doi.org/10.1038/s41586-025-08888-1). Verification: Crossref REST API on 2026-09-03T20:27:03.462Z; verified.
+7. Alia Seedat, Alex Lepauvre, Jay Jeschke, Urszula Gorska-Klimowska, Marcelo Armendariz, Katarina Bendtz, Simon Henin, Rony Hirschhorn, Tanya Brown, Erika Jensen, Csaba Kozma, David Mazumder, Stephanie Montenegro, Leyao Yu, Niccolò Bonacchi, Diptyajit Das, Kyle Kahraman, Praveen Sripad, Fatemeh Taheriyan, Orrin Devinsky, Patricia Dugan, Werner Doyle, Adeen Flinker, Daniel Friedman, Wendell Lake, Michael Pitts, Liad Mudrik, Melanie Boly, Sasha Devore, Gabriel Kreiman, Lucia Melloni (2025). [Open multi-center intracranial electroencephalography dataset with task probing conscious visual perception](https://doi.org/10.1038/s41597-025-04833-z). *Scientific Data*. DOI: [10.1038/s41597-025-04833-z](https://doi.org/10.1038/s41597-025-04833-z). Verification: Crossref REST API on 2026-09-03T20:27:03.462Z; verified.
+8. Aya Khalaf, David Richter, Yamil Vidal, Urszula Gorska-Klimowska, Rony Hirschhorn, Diptyajit Das, Kyle Sinan Taylan Kahraman, Praveen Sripad, Fatemeh Taheriyan, Liad Mudrik, Michael Pitts, Hal Blumenfeld, Floris P. de Lange, Niccolò Bonacchi, Tanya Brown, Lucia Melloni (2026). [An open-access multi-site fMRI dataset for investigating conscious visual perception](https://doi.org/10.1038/s41597-026-07377-y). *Scientific Data*. DOI: [10.1038/s41597-026-07377-y](https://doi.org/10.1038/s41597-026-07377-y). Verification: Crossref REST API on 2026-09-03T20:27:03.463Z; corrected, author metadata replaced with the authoritative record.
+9. Ling Liu, Oscar Ferrante, Tara Ghafari, Dorottya Hetenyi, Shujun Yang, Rony Hirschhorn, Urszula Gorska-Klimowska, Praveen Sripad, Fatemeh Taheriyan, Tanya Brown, Diptyajit Das, Kyle Kahraman, Niccolò Bonacchi, Michael Pitts, Liad Mudrik, Ole Jensen, Huan Luo, Lucia Melloni (2026). [An open multi-center MEG-EEG dataset for studying conscious visual perception](https://doi.org/10.1038/s41597-026-07350-9). *Scientific Data*. DOI: [10.1038/s41597-026-07350-9](https://doi.org/10.1038/s41597-026-07350-9). Verification: Crossref REST API on 2026-09-03T20:27:03.463Z; corrected, author metadata replaced with the authoritative record.
+10. Holger Lyre (2022). [Neurophenomenal structuralism. A philosophical agenda for a structuralist neuroscience of consciousness](https://doi.org/10.1093/nc/niac012). *Neuroscience of Consciousness*. DOI: [10.1093/nc/niac012](https://doi.org/10.1093/nc/niac012). Verification: Crossref REST API on 2026-09-03T20:27:03.463Z; verified.
+11. Lukas Kob (2023). [Exploring the role of structuralist methodology in the neuroscience of consciousness: a defense and analysis](https://doi.org/10.1093/nc/niad011). *Neuroscience of Consciousness*. DOI: [10.1093/nc/niad011](https://doi.org/10.1093/nc/niad011). Verification: Crossref REST API on 2026-09-03T20:27:03.463Z; verified.
+12. Johannes Kleiner, Tim Ludwig (2023). [What is a Mathematical Structure of Conscious Experience?](https://arxiv.org/abs/2301.11812). *arXiv*. Verification: arXiv API on 2026-09-03T20:27:03.463Z; verified.
+13. Larissa Albantakis, Leonardo Barbosa, Graham Findlay, Matteo Grasso, Andrew M. Haun, William Marshall, William G. P. Mayner, Alireza Zaeemzadeh, Melanie Boly, Bjørn E. Juel, Shuntaro Sasai, Keiko Fujii, Isaac David, Jeremiah Hendren, Jonathan P. Lang, Giulio Tononi (2023). [Integrated information theory (IIT) 4.0: Formulating the properties of phenomenal existence in physical terms](https://doi.org/10.1371/journal.pcbi.1011465). *PLOS Computational Biology*. DOI: [10.1371/journal.pcbi.1011465](https://doi.org/10.1371/journal.pcbi.1011465). Verification: Crossref REST API on 2026-09-03T20:27:03.463Z; verified.
+14. Tim Bayne (2018). [On the axiomatic foundations of the integrated information theory of consciousness](https://doi.org/10.1093/nc/niy007). *Neuroscience of Consciousness*. DOI: [10.1093/nc/niy007](https://doi.org/10.1093/nc/niy007). Verification: Crossref REST API on 2026-09-03T20:27:03.463Z; verified.
+15. Aishik Sanyal (2026). [ReCoN-Ipsundrum: An Inspectable Recurrent Persistence Loop Agent with Affect-Coupled Control and Mechanism-Linked Consciousness Indicator Assays](https://arxiv.org/abs/2602.23232). *arXiv*. Verification: arXiv API on 2026-09-03T20:27:03.463Z; verified.
+16. Daniel Grünbaum, Maike L. Stern, Elmar W. Lang (2022). [Quantitative probing: Validating causal models using quantitative domain knowledge](https://arxiv.org/abs/2209.03013). *arXiv*. Verification: arXiv API on 2026-09-03T20:27:03.463Z; verified.
+
+**Bibliography status:** Finalized and checked 2026-09-03T20:32:50.440Z.
 
 ## Interpretive Boundary
 
