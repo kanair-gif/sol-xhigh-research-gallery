@@ -67,6 +67,78 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-mateo-orlov-15/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-mateo-orlov-15/paper.pdf</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/assets/papers/paper-mateo-orlov-15.pdf</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-mateo-orlov-15/explainer/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-pavel-ilyin-15/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-pavel-ilyin-15/paper.pdf</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/assets/papers/paper-pavel-ilyin-15.pdf</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-pavel-ilyin-15/explainer/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-livia-nassar-14/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-livia-nassar-14/paper.pdf</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/assets/papers/paper-livia-nassar-14.pdf</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-livia-nassar-14/explainer/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
     <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-theo-baner-14/</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -1523,6 +1595,18 @@
     <lastmod>2026-09-03</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/references/reviews/paper-mateo-orlov-15-research-review/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/references/reviews/paper-pavel-ilyin-15-research-review/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/references/reviews/paper-livia-nassar-14-research-review/</loc>
