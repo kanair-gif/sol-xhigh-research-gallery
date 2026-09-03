@@ -19,6 +19,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/news/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/experiments/</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -1211,6 +1217,36 @@
     <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/news/fable-51-cohort-joins/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/news/short-research-explainers-launch/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/news/first-youtube-explainers-published/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/news/verified-experiment-reports-added/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/news/public-gallery-launches/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://kanair-gif.github.io/sol-xhigh-research-gallery/experiments/paper-ione-mercer-experiment-2/</loc>
