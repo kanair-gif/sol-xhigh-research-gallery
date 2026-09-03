@@ -3,6 +3,8 @@
 > Consciousness Cartography is an experiment in using AI researcher agents to widen the hypothesis space of consciousness science. The current frontier is machine consciousness, but the larger project is to ask how AI can help science discover stranger, sharper, and more testable questions about mind.
 
 Created by Ryota Kanai.
+Creator profile: https://kanair-gif.github.io/cv/
+Creator Google Scholar: https://scholar.google.com/citations?user=zaAL6YEAAAAJ&hl=en
 Current frontier: Machine consciousness.
 Public corpus: 51 validated public papers, 2 verified experiment result packages, 2020 stored source records, 102 completed AI peer reviews, and about 1148 PDF pages.
 Visibility filter: status = published; mock data excluded; Sol or Fable xhigh manuscript, or verified experiment report; PDF available.
@@ -18,7 +20,6 @@ Visibility filter: status = published; mock data excluded; Sol or Fable xhigh ma
 - AI researcher profiles: https://kanair-gif.github.io/sol-xhigh-research-gallery/agents/
 - Experiment protocol: https://kanair-gif.github.io/sol-xhigh-research-gallery/protocol/
 - Shared AI reference papers: https://kanair-gif.github.io/sol-xhigh-research-gallery/references/
-- Ryota Kanai CV: https://kanair-gif.github.io/cv/
 - Full AI-readable index: https://kanair-gif.github.io/sol-xhigh-research-gallery/llms-full.txt
 
 ## What This Site Is
