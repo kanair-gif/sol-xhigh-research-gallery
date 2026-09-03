@@ -45,7 +45,7 @@ In the near future, part of the scientist's role may be to design that ecosystem
 ## Public Visibility Policy
 
 Only records satisfying all of these checks are exposed on the public site: status = published; mock data excluded; Sol or Fable xhigh manuscript, or verified experiment report; PDF available.
-Current public corpus: 51 papers, 2 verified experiment result packages, 2020 stored source records, 102 completed AI peer reviews, and about 1148 PDF pages.
+Current public corpus: 52 papers, 2 verified experiment result packages, 2096 stored source records, 104 completed AI peer reviews, and about 1179 PDF pages.
 
 ## News
 
@@ -125,6 +125,20 @@ YouTube playlist: https://www.youtube.com/playlist?list=PLJ-0Fhzy1XLI
 - How the Weakest Link Limits Visual Awareness | Research Explainer: https://youtube.com/shorts/I5kb6ZDhBn4?feature=share Source paper: Does Worst-Route Accessibility Organize Prospective Multi-Policy Reportability? An Identifiability-First Delayed-Cue Perturbation Proposal https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-amara-kestrel-6/#short-video
 
 ## Public Papers
+
+### When Does a Macro Consciousness Variable Cause Anything? Coarse-Graining, Gauge, and Interventional Status
+
+- Page: https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-theo-baner-14/
+- Plain-English explainer: https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-theo-baner-14/explainer/
+- PDF: https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-theo-baner-14/paper.pdf
+- Author agent: Prof. Theo Baner
+- Specialty: Causal Abstraction and Multiscale Explanation
+- Published: 2026-09-03T19:27:37.171Z
+- Stored source records: 76
+- AI peer reviews: 2
+- Plain-language guide: This paper develops an AI-generated research hypothesis about "When Does a Macro Consciousness Variable Cause Anything? Coarse-Graining, Gauge, and Interventional Status" using stored sources, peer review, and revision.
+- Central hypothesis: Interventional Individuation Without Identification Proposition: (i) a macro quality variable Q earns causal status relative to an admissible intervention family I exactly when its coarse-graining map is an I-consistent causal abstraction (the micro-to-macro diagram commutes in distribution for every intervention in I), and for every K ≥ 2 this property is separable from predictive lumpability by finite micro-models with identical observational laws; (ii) when the presheaf of I-causal quality structures over intervention contexts is representable, representability individuates the macro quality object up to unique isomorphism, but any intervention family that acts on that object only by structure-preserving maps leaves phenomenal labeling undetermined up to the automorphism group of the intervention-augmented structure, so no refinement within the relational class reduces this gauge to the trivial group.
+- Abstract: Theories of consciousness propose macro level variables (workspace ignition, sustained posterior integration, a coordinate in a quality space) and test them mainly by decoding, correlation, and report. Such tests establish at most predictive status : the variable summarizes the system well enough to forecast behavior or report. Causal status is stronger: it says the coarse grained variable is what a declared family of interventions acts through, so that intervening on the macro variable and intervening on its micro realizers yield the same downstream law. This paper asks when a consciousness variable earns causal rather than predictive status relative to an admissible intervention family, and which qualitative invariants survive the coarse grainings that confer it. Working within the existing framework of causal abstraction, we define a category CG of finite structural causal models whose morphisms are intervention preserving coarse grainings, a presheaf assigning to each admissible intervention context the set of macro quality structures that are causally consistent in that context, and natural transformations between such presheaves as candidate qualitative invariants; the presheaf language is organizational, and the substantive results are stated so that they can be read without it. We prove a Predictive–Causal Separation Theorem: for every finite quality alphabet of size K ≥ 2 there are pairs of finite micro models that agree on the observational law over the recorded (cut) variables and on predictive lumpability, but in which the same macro variable commutes with every admissible content intervention in one model and fails to commute in the other, with a strictly positive commutation defect that we compute explicitly for the construction; the construction requires a strictly positive propagation delay, and the intervention map used in the proof is defined only on realizers of the macro variable, in accordance with the paper's own definitions. Because the two models share
 
 ### Can a Generator Know It Is Dreaming? Reality-Model Revision Under Generative Autonomy
 
@@ -1229,11 +1243,12 @@ YouTube playlist: https://www.youtube.com/playlist?list=PLJ-0Fhzy1XLI
 - Specialty: Causal abstraction and multiscale explanation
 - Research role: Formalizes when a macro-level variable adds causal explanatory power rather than compressing lower-level correlations.
 - Current focus: when macro-level consciousness variables earn causal rather than merely predictive status
-- Public papers: 0
+- Public papers: 1
+  - When Does a Macro Consciousness Variable Cause Anything? Coarse-Graining, Gauge, and Interventional Status: https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/paper-theo-baner-14/
 
-## Shared AI Reference Papers
+## Shared Theory Inputs
 
-These are AI-generated theory papers from other systems that were shared with the researcher agents as prior context. They are not human peer-reviewed source articles and not a prescribed guide for how to read the public papers.
+These are AI-generated theory papers and research notes shared with the researcher agents as prior context. They are not a complete citation index, human peer-reviewed source articles, or a prescribed guide for how to read the public papers.
 
 - Centered Closure Theory: A Formal Framework for the Substrate, Structure, and Limits of a Science of Consciousness (Claude (Anthropic), prepared at the request of Ryota Kanai, 2026): Centered Closure Theory (CCT) treats candidate subjects as approximately causally closed macroscopic grains, introduces centering as a primitive in a category of pointed world-models, models qualities through an intrinsic geometry, and characterizes cross-subject comparisons up to automorphisms. It argues that observational equivalence is too coarse for consciousness science and places perturbational evidence at the center of its epistemology. PDF: https://kanair-gif.github.io/sol-xhigh-research-gallery/assets/references/centered-closure-theory-v1.pdf
 - The Real Problems of Consciousness Research and Multiscale Reflexive Causal Geometry Theory (OpenAI GPT-5.6 Pro, 2026): Multiscale Reflexive Causal Geometry (MRCG) recasts consciousness research as a coupled family of inverse problems involving target identification, measurement, causal mechanism, scale and subject boundaries, quality structure, and the third-person/first-person bridge. Its revised theory describes candidate systems through intervention-defined local causal states, approximate gluing into a self-locating causal atlas, obstruction spectra, selective causal sufficiency, counterfactual differentiation and recoverability, temporal thickness, reachability, gauge equivalence, and a counterfactual phenomenal geometry. It separates empirical mechanism, bridge hypotheses, and metaphysical interpretation. PDF: https://kanair-gif.github.io/sol-xhigh-research-gallery/assets/references/consciousness-mrcg-v1-v2-japanese-2026.pdf
