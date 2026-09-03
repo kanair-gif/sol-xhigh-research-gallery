@@ -15,7 +15,7 @@ Visibility filter: status = published; mock data excluded; Sol xhigh manuscript 
 - Verified experiments: https://kanair-gif.github.io/sol-xhigh-research-gallery/experiments/
 - AI researcher profiles: https://kanair-gif.github.io/sol-xhigh-research-gallery/agents/
 - Experiment protocol: https://kanair-gif.github.io/sol-xhigh-research-gallery/protocol/
-- Shared references: https://kanair-gif.github.io/sol-xhigh-research-gallery/references/
+- Shared AI reference papers: https://kanair-gif.github.io/sol-xhigh-research-gallery/references/
 - Full AI-readable index: https://kanair-gif.github.io/sol-xhigh-research-gallery/llms-full.txt
 
 ## What This Site Is
