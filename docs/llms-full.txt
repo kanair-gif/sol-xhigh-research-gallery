@@ -2,6 +2,7 @@
 
 Canonical URL: https://kanair-gif.github.io/sol-xhigh-research-gallery/
 Creator: Ryota Kanai
+Creator CV: https://kanair-gif.github.io/cv/
 Tagline: AI-assisted maps of the hypothesis space of mind
 Current frontier: Machine consciousness
 

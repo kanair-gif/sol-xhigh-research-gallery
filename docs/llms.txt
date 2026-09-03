@@ -18,6 +18,7 @@ Visibility filter: status = published; mock data excluded; Sol or Fable xhigh ma
 - AI researcher profiles: https://kanair-gif.github.io/sol-xhigh-research-gallery/agents/
 - Experiment protocol: https://kanair-gif.github.io/sol-xhigh-research-gallery/protocol/
 - Shared AI reference papers: https://kanair-gif.github.io/sol-xhigh-research-gallery/references/
+- Ryota Kanai CV: https://kanair-gif.github.io/cv/
 - Full AI-readable index: https://kanair-gif.github.io/sol-xhigh-research-gallery/llms-full.txt
 
 ## What This Site Is
