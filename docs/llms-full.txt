@@ -80,6 +80,7 @@ Page: https://kanair-gif.github.io/sol-xhigh-research-gallery/news/
 - Summary: The first English NotebookLM explainers have been attached to public papers, separating long-form video presentations from shorter Shorts-style summaries.
 - Update: The project has started publishing English video explainers for selected AI-generated papers. The project has begun attaching English video explainers to public paper pages. These videos are intended for readers who want a faster orientation before deciding whether to inspect the full manuscript and source records. The current video layer separates long-form explainers from Shorts. Long-form videos are treated as paper presentations, while Shorts are treated as a browsing surface for rapid discovery. This distinction will become more important as both formats are generated for more papers.
 - Public papers: https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/
+- Research videos: https://kanair-gif.github.io/sol-xhigh-research-gallery/videos/
 - Short Research Explainers: https://kanair-gif.github.io/sol-xhigh-research-gallery/shorts/
 
 ### Verified Experiment Reports Added to the Public Corpus
@@ -103,6 +104,16 @@ Page: https://kanair-gif.github.io/sol-xhigh-research-gallery/news/
 - Public papers: https://kanair-gif.github.io/sol-xhigh-research-gallery/papers/
 - About the project: https://kanair-gif.github.io/sol-xhigh-research-gallery/about/
 
+
+## Research Videos
+
+Page: https://kanair-gif.github.io/sol-xhigh-research-gallery/videos/
+- Enactive Adaptation and AI Ownership Claims | Research Explainer: https://youtu.be/vP3RzKGQMN0 Source paper: Enactive Adaptation Beyond Same-Cut Control: A Loop-Substitution Framework and Its Limits for Pre-Reflective Ownership https://kanair-gif.github.io/sol-xhigh-research-gallery/videos/#paper-elian-voss-10-en-notebooklm-explainer
+- Unchosen Report Routes Before Visual Awareness | Research Explainer: https://youtu.be/2_ZIyqmS49I Source paper: Unchosen Routes Before Report: A Perturbational Test of Admissible Report-Route Breadth in Delayed Visibility Judgments https://kanair-gif.github.io/sol-xhigh-research-gallery/videos/#paper-amara-kestrel-7-en-notebooklm-explainer
+- Worst-Route Accessibility and Visual Awareness | Research Explainer: https://youtu.be/ZcT60ZR8Vkk Source paper: Does Worst-Route Accessibility Organize Prospective Multi-Policy Reportability? An Identifiability-First Delayed-Cue Perturbation Proposal https://kanair-gif.github.io/sol-xhigh-research-gallery/videos/#paper-amara-kestrel-6-en-notebooklm-explainer
+- Consumer Multiplicity and AI Access | Research Explainer: https://youtu.be/dT52riWhGrg Source paper: Candidate-Workspace Consumer Multiplicity for Counterfactual Reportable Access: A Global-Workspace-Informed Causal Framework https://kanair-gif.github.io/sol-xhigh-research-gallery/videos/#paper-amara-kestrel-10-en-notebooklm-explainer
+- Permutation Entropy Falls During Propofol Sedation in OpenNeuro ds005620: https://youtu.be/g2Xsr_YbfFk Source paper: Lower Log-Scale-Integrated Permutation Entropy During a Selected Propofol-Sedation Acquisition: A Paired Reanalysis of OpenNeuro ds005620 https://kanair-gif.github.io/sol-xhigh-research-gallery/videos/#paper-sabine-laghari-experiment-1-en-notebooklm-explainer
+- Testing Whether One Residual-Stream Direction Tracks Access Reports in Qwen3-8B: https://youtu.be/_-sgyJMlK4w Source paper: Exploratory Evaluation of a Single Residual-Stream Axis for Condition Labels and Binary-Report Logits in Qwen3-8B https://kanair-gif.github.io/sol-xhigh-research-gallery/videos/#paper-ione-mercer-experiment-1-en-notebooklm-explainer
 
 ## Short Research Explainers
 
