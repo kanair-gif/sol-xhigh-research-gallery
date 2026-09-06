@@ -108,6 +108,7 @@ Page: https://kanair-gif.github.io/sol-xhigh-research-gallery/news/
 ## Research Videos
 
 Page: https://kanair-gif.github.io/sol-xhigh-research-gallery/videos/
+- Shared Attention: Joint Control or Just Agreement? | Research Explainer: https://youtu.be/fEjOw5lymmk Source paper: Is Shared Attention Joint Control or Just Agreement? A Cross-Agent Causal Criterion https://kanair-gif.github.io/sol-xhigh-research-gallery/videos/#paper-leona-akhtar-12-en-notebooklm-explainer
 - Memory Gaps and Self-Continuity in Brains and AI Agents: https://youtu.be/asJiJLJdplM Source paper: What Survives a Memory Gap? Segment-Crossing Carryover in Brains and AI Agents https://kanair-gif.github.io/sol-xhigh-research-gallery/videos/#paper-emil-sato-13-en-notebooklm-explainer
 - Neural Direction Recurrence and Recovery Metrics: https://youtu.be/-0ilFm4RQbE Source paper: From Covert Reserve to Recovered Control: A Conservative Recovery-Linked Causal Recruitment Audit for Disorders of Consciousness and AI Agents https://kanair-gif.github.io/sol-xhigh-research-gallery/videos/#paper-marisol-quade-10-en-notebooklm-explainer
 - Context-Compatible Causal Islands in Generative Agents: https://youtu.be/rkLjmEwMc9I Source paper: Context-Compatible Causal Islands in Recurrent Generative Agents: Stability Bounds, Behavioral Non-Identifiability, and Interventional Profiles https://kanair-gif.github.io/sol-xhigh-research-gallery/videos/#paper-livia-nassar-8-en-notebooklm-explainer
