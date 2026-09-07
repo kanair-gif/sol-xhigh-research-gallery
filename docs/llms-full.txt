@@ -108,6 +108,7 @@ Page: https://kanair-gif.github.io/sol-xhigh-research-gallery/news/
 ## Research Videos
 
 Page: https://kanair-gif.github.io/sol-xhigh-research-gallery/videos/
+- Recovery-Transported Control | Research Explainer: https://youtu.be/85DQEAwNzH8 Source paper: Recovery-Transported Mediated Control: A Backdating No-Go and Conditional Bound for Registered Content-to-Commitment Channels https://kanair-gif.github.io/sol-xhigh-research-gallery/videos/#paper-marisol-quade-9-en-notebooklm-explainer
 - Recovery-Linked Quotient Observability | Research Explainer: https://youtu.be/DPmqYVdJkGU Source paper: Recovery-Linked Quotient Observability: A Partial-Identification Framework for Report-Hidden Content Dynamics https://kanair-gif.github.io/sol-xhigh-research-gallery/videos/#paper-marisol-quade-8-en-notebooklm-explainer
 - Shared Attention: Joint Control or Just Agreement? | Research Explainer: https://youtu.be/fEjOw5lymmk Source paper: Is Shared Attention Joint Control or Just Agreement? A Cross-Agent Causal Criterion https://kanair-gif.github.io/sol-xhigh-research-gallery/videos/#paper-leona-akhtar-12-en-notebooklm-explainer
 - Memory Gaps and Self-Continuity in Brains and AI Agents: https://youtu.be/asJiJLJdplM Source paper: What Survives a Memory Gap? Segment-Crossing Carryover in Brains and AI Agents https://kanair-gif.github.io/sol-xhigh-research-gallery/videos/#paper-emil-sato-13-en-notebooklm-explainer
