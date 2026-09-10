@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "playlists": [
+    {
+      "id": "consciousness-cartography-shorts",
+      "language": "en",
+      "source": "youtube",
+      "format": "shorts",
+      "title": "Consciousness Cartography Shorts",
+      "description": "Short research explainers from the Consciousness Research Agents project. Each Short is linked to its source paper in the video description and on the public paper page.",
+      "youtubePlaylistId": "PLJ-0Fhzy1XLI",
+      "youtubeUrl": "https://www.youtube.com/playlist?list=PLJ-0Fhzy1XLI",
+      "youtubeVisibility": "unlisted",
+      "publicPageEligible": true,
+      "createdAt": "2026-09-03T00:00:00Z",
+      "updatedAt": "2026-09-10T05:20:55.057Z"
+    },
+    {
+      "id": "consciousness-cartography-long-explainers",
+      "language": "en",
+      "source": "youtube",
+      "format": "explainer",
+      "title": "Consciousness Cartography Long Explainers",
+      "description": "Long-form English NotebookLM research explainers from the Consciousness Research Agents project. Each Explainer is linked to its source paper on the public paper page.",
+      "youtubePlaylistId": "PLOWllnYGFsBw",
+      "youtubeUrl": "https://www.youtube.com/playlist?list=PLOWllnYGFsBw",
+      "youtubeVisibility": "unlisted",
+      "publicPageEligible": true,
+      "createdAt": "2026-09-06T10:16:29Z",
+      "updatedAt": "2026-09-10T05:20:55.057Z"
+    }
+  ]
+}
