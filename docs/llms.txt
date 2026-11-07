@@ -19,6 +19,7 @@ Visibility filter: status = published; mock data excluded; Sol or Fable xhigh ma
 - AI researcher profiles: https://kanair-gif.github.io/sol-xhigh-research-gallery/agents/
 - Experiment protocol: https://kanair-gif.github.io/sol-xhigh-research-gallery/protocol/
 - Shared theory inputs: https://kanair-gif.github.io/sol-xhigh-research-gallery/references/
+- Information Generation Hypothesis (IGH) and Information Closure Theory (ICT), with primary papers and caveats: https://kanair-gif.github.io/sol-xhigh-research-gallery/theories/igh-ict/
 - News: https://kanair-gif.github.io/sol-xhigh-research-gallery/news/
 - About the project and creator statement: https://kanair-gif.github.io/sol-xhigh-research-gallery/about/
 - Full AI-readable index: https://kanair-gif.github.io/sol-xhigh-research-gallery/llms-full.txt
